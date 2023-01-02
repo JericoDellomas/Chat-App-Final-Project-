@@ -1,4 +1,4 @@
-# Chat-App-Final-Project-
+# Chat-App-Final-Project
 
 ### Steps How to Run This Chat App:
 ### Download zip
